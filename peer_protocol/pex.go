@@ -1,6 +1,6 @@
 package peer_protocol
 
-import "github.com/anacrolix/dht/krpc"
+import "github.com/amivin123/dhtor/krpc"
 
 type PexMsg struct {
 	Added       krpc.CompactIPv4NodeAddrs `bencode:"added"`

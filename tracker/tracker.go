@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/anacrolix/dht/krpc"
+	"github.com/amivin123/dhtor/krpc"
 )
 
 // Marshalled as binary by the UDP client, so be careful making changes.

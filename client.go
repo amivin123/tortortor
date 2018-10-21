@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/anacrolix/dht"
-	"github.com/anacrolix/dht/krpc"
+	"github.com/amivin123/dhtor"
+	"github.com/amivin123/dhtor/krpc"
 	"github.com/anacrolix/log"
 	"github.com/anacrolix/missinggo"
 	"github.com/anacrolix/missinggo/bitmap"

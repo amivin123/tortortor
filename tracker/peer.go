@@ -3,7 +3,7 @@ package tracker
 import (
 	"net"
 
-	"github.com/anacrolix/dht/krpc"
+	"github.com/amivin123/dhtor/krpc"
 )
 
 type Peer struct {

@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/anacrolix/dht"
+	"github.com/amivin123/dhtor"
 	_ "github.com/anacrolix/envpprof"
 	"github.com/anacrolix/missinggo"
 	"github.com/anacrolix/missinggo/filecache"

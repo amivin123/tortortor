@@ -11,7 +11,7 @@ There is [support for protocol encryption, DHT, PEX, uTP, and various extensions
 Some noteworthy package dependencies that can be used for other purposes include:
 
  * [go-libutp](https://github.com/anacrolix/go-libutp)
- * [dht](https://github.com/anacrolix/dht)
+ * [dht](https://github.com/amivin123/dhtor)
  * [bencode](https://godoc.org/github.com/amivin123/tortortor/bencode)
  * [tracker](https://godoc.org/github.com/amivin123/tortortor/tracker)
 

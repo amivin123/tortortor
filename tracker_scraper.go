@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/anacrolix/dht/krpc"
+	"github.com/amivin123/dhtor/krpc"
 	"github.com/anacrolix/missinggo"
 
 	"github.com/amivin123/tortortor/tracker"

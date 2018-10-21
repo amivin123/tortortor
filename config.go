@@ -4,7 +4,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/anacrolix/dht"
+	"github.com/amivin123/dhtor"
 	"github.com/anacrolix/missinggo"
 	"github.com/anacrolix/missinggo/expect"
 	"golang.org/x/time/rate"

@@ -2,7 +2,7 @@ module github.com/amivin123/tortortor
 
 require (
 	bazil.org/fuse v0.0.0-20180421153158-65cc252bf669
-	github.com/anacrolix/dht v0.0.0-20180412060941-24cbf25b72a4
+	github.com/amivin123/dhtor v0.0.0-20180412060941-24cbf25b72a4
 	github.com/anacrolix/envpprof v0.0.0-20180404065416-323002cec2fa
 	github.com/anacrolix/go-libutp v0.0.0-20180725071407-34b43d880940
 	github.com/anacrolix/log v0.0.0-20180412014343-2323884b361d
